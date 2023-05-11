@@ -17,3 +17,5 @@ find values in th collections
 
 ## updateMongo.py
 update values in collections acoording to specified fields
+
+Will be used in codechat 
